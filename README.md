@@ -1,9 +1,9 @@
 📄 Licensed under [Modified MIT License](LICENSE.md) — for personal and educational use only.
 
+📜 See what's new: [Change log](CHANGELOG.md)
+
 # consent-aware-collector
 A calm, non-invasive tool to see what’s happening on the computer you use — including camera, mic, and background services. Doesn’t hack, spy, or break rules. Just helps you better understand your digital environment — even on devices managed by others.
-
-consent-aware-collector
 
 Calm visibility for conscious users.
 
@@ -31,6 +31,7 @@ This project was built for anyone who wants to:
 It’s a lens, not a lever. A flashlight, not a crowbar.
 
 🔐 What It Does (and Doesn’t)
+
 ✅ It does:
 - Log when certain processes (e.g. camera/mic controllers) become active
 - Capture visible signs of system-level behavior (e.g. sharingd, rapportd, mdmclient)
@@ -56,11 +57,14 @@ It can also support:
 - Parents or caregivers helping others use computers safely
 - Anyone feeling uncertain about how their system behaves
 
-🚀 Quick Start
-
-<pre> git clone https://github.com/yourusername/consent-aware-collector.git cd consent-aware-collector chmod +x collector.sh ./collector.sh </pre>
+### 🚀 Quick Start
+```
+git clone https://github.com/yourusername/consent-aware-collector.git
+cd consent-aware-collector
+chmod +x collector.sh
+./collector.sh 
+```
 Logs are saved to a /logs/ folder with readable timestamps.
-
 
 ### 📁 Output Sample
 
