@@ -2,7 +2,7 @@
 
 📜 See what's new: [Change log](CHANGELOG.md)
 
-🖤 This repo stays free, focused and unfiltered thanks to people who believe visibility is power. [Sponsor me](https://buymeacoffee.com/perriegramm)
+🖤 This repo stays free, focused and unfiltered thanks to people who believe visibility is power. Clarity costs energy. I run on caffeine → [Buy me a coffee](https://buymeacoffee.com/perriegramm)
 
 # consent-aware-collector
 A calm, non-invasive tool to see what’s happening on the computer you use — including camera, mic, and background services. Doesn’t hack, spy, or break rules. Just helps you better understand your digital environment — even on devices managed by others.
